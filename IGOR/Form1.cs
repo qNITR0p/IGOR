@@ -87,14 +87,10 @@ namespace IGOR
 
         private void button1_Click(object sender, EventArgs e)
         {
-            // Вычисляем общую скорость
-            double totalSpeed = (speed1 + speed2) / 2;
-
-            // Вычисляем общий путь
-            double totalDistanceTravelled = totalSpeed * time;
-
-            // Вычисляем окончательное расстояние между автомобилями
-            double finalDistance = distant + totalDistanceTravelled;
+            double S1 = speed1 * time;
+            double S2 = speed2 * time;
+            double totalDistanceTravelled = S1+S2+distant;
+            double finalDistance = totalDistanceTravelled;
 
             // Выводим результат в textBox5
             textBox5.Text = $"Расстояние между автомобилями через {time} час(а): {finalDistance} км.";

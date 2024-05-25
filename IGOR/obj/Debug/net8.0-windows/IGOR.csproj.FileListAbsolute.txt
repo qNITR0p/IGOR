@@ -30,3 +30,4 @@ C:\Users\Данил\Desktop\IGOR\IGOR\obj\Debug\net8.0-windows\refint\IGOR.dll
 C:\Users\Данил\Desktop\IGOR\IGOR\obj\Debug\net8.0-windows\IGOR.pdb
 C:\Users\Данил\Desktop\IGOR\IGOR\obj\Debug\net8.0-windows\IGOR.genruntimeconfig.cache
 C:\Users\Данил\Desktop\IGOR\IGOR\obj\Debug\net8.0-windows\ref\IGOR.dll
+C:\Users\Данил\Desktop\IGOR\IGOR\obj\Debug\net8.0-windows\IGOR.sourcelink.json
